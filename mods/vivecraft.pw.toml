@@ -1,13 +1,13 @@
 name = "Vivecraft"
-filename = "vivecraft-1.20.1-1.1.7-forge.jar"
+filename = "vivecraft-1.20.1-1.1.9-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/YYnU0sX2/vivecraft-1.20.1-1.1.7-forge.jar"
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/c1FDoTSa/vivecraft-1.20.1-1.1.9-forge.jar"
 hash-format = "sha1"
-hash = "98af9157cc44538cc6124adbb800cb9db7bfbe45"
+hash = "25083389f1562a7420f5e690b73a640c0281248f"
 
 [update]
 [update.modrinth]
 mod-id = "wGoQDPN5"
-version = "YYnU0sX2"
+version = "c1FDoTSa"
