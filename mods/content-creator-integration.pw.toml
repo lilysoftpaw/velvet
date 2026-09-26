@@ -1,13 +1,13 @@
 name = "Content Creator Integration"
-filename = "ContentCreatorIntegration-1.20.1-Forge-1.11.1.jar"
+filename = "ContentCreatorIntegration-1.20.1-Forge-1.13.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6Z8wT5tM/versions/ex4vHeEW/ContentCreatorIntegration-1.20.1-Forge-1.11.1.jar"
-hash-format = "sha1"
-hash = "d44fbf0ca9d28494d2789725c539ca49ab1caaea"
+url = "https://cdn.modrinth.com/data/6Z8wT5tM/versions/nNaAlKHI/ContentCreatorIntegration-1.20.1-Forge-1.13.0.jar"
+hash-format = "sha512"
+hash = "ac7701a532c3d3470abbe70f8717053c9603cdb370c7a3eb3064554acb98055164a5004af83ea2e1b6486d6ebfb7277b427777221cb7ac053bd309a42bd9f0d9"
 
 [update]
 [update.modrinth]
 mod-id = "6Z8wT5tM"
-version = "ex4vHeEW"
+version = "nNaAlKHI"

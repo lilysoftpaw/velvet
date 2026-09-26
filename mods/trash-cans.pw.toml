@@ -1,13 +1,13 @@
 name = "Trash Cans"
-filename = "trashcans-1.0.18b-forge-mc1.20.jar"
+filename = "trashcans-1.1.1-forge-mc1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4QrnfueM/versions/Q0Ym1HHm/trashcans-1.0.18b-forge-mc1.20.jar"
-hash-format = "sha1"
-hash = "4bc991b861a981921d06b731368239ce6ea571d3"
+url = "https://cdn.modrinth.com/data/4QrnfueM/versions/7u8lczxe/trashcans-1.1.1-forge-mc1.20.4.jar"
+hash-format = "sha512"
+hash = "10754e6463ba692a86db56c46816a9e136b1e5a48709d0132ae91043fc20900fdfd3d07a9fde594c0ebab4614950e73f81b421aeb1d201d5229ca14215327e84"
 
 [update]
 [update.modrinth]
 mod-id = "4QrnfueM"
-version = "Q0Ym1HHm"
+version = "7u8lczxe"
