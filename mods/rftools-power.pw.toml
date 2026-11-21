@@ -1,13 +1,13 @@
 name = "RFTools Power"
-filename = "rftoolspower-1.20-6.0.1.jar"
+filename = "rftoolspower-1.20-6.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YWbLuPa1/versions/LUyaMcKr/rftoolspower-1.20-6.0.1.jar"
-hash-format = "sha1"
-hash = "75401ebd608c1acff7fae179639125997346a74f"
+url = "https://cdn.modrinth.com/data/YWbLuPa1/versions/CIKWSCOD/rftoolspower-1.20-6.0.3.jar"
+hash-format = "sha512"
+hash = "c98e2d3a65cb0f9b8264cf9f5ef8390181278df700675e0eecadd6aabc5e4c1c332b2e644c666de60c3d53287a3d96126ea38f9d4ba8fdab89b9f6ed65b39c3f"
 
 [update]
 [update.modrinth]
 mod-id = "YWbLuPa1"
-version = "LUyaMcKr"
+version = "CIKWSCOD"
