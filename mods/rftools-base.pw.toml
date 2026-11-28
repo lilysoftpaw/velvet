@@ -1,13 +1,13 @@
 name = "RFTools Base"
-filename = "rftoolsbase-1.20-5.0.2.jar"
+filename = "rftoolsbase-1.20-5.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hIO8IsD8/versions/SybYUK3U/rftoolsbase-1.20-5.0.2.jar"
-hash-format = "sha1"
-hash = "2acd5750e5f0c6ccad254c42a2b85fd2c31f2488"
+url = "https://cdn.modrinth.com/data/hIO8IsD8/versions/kjTCQRFA/rftoolsbase-1.20-5.0.8.jar"
+hash-format = "sha512"
+hash = "c7e4486f0b5b03e114ec3879be72ab9dd937c8bdb9159bf7c5fb3293790b008b1bacf27d3c2314f93826a9d102fb2b4d8b896afaa355ae70e493c99c90d3bb04"
 
 [update]
 [update.modrinth]
 mod-id = "hIO8IsD8"
-version = "SybYUK3U"
+version = "kjTCQRFA"
